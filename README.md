@@ -37,13 +37,13 @@ O projeto é organizado em dois notebooks principais:
 
 ## 🛠️ Tecnologias e Bibliotecas
 
-### Tecnologias Principais
+### Tecnologias
 - **Linguagem**: Python 3.13.2
 - **Framework**: TensorFlow/Keras
 - **Modelo Base**: MobileNetV2 (Transfer Learning)
 - **Ambiente**: Google Colab/Jupyter
 
-### Bibliotecas Principais
+### Bibliotecas
 - **TensorFlow/Keras**: Para construção e treinamento do modelo
 - **NumPy**: Manipulação numérica de dados
 - **Matplotlib/Seaborn**: Visualizações e gráficos
