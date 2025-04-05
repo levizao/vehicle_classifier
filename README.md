@@ -1,4 +1,4 @@
-|<sub>BR</sub> [Português](readme.md)|<sub>EN</sub> [English](/readme.EN.md)|
+|<sub>BR</sub> [Português](README.md)|<sub>EN</sub> [English](/readme.EN.md)|
 |-|-
 
 
